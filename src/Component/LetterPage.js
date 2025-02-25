@@ -48,7 +48,7 @@ function LetterPage() {
               onClick={() => navigate('/')}
               style={{ fontSize: '18px', fontFamily:'monospace', fontWeight:'bold', background: '#DB2777', color: 'white', padding: '0.5rem 1.5rem', borderRadius: '9999px', marginTop: '2rem', cursor: 'pointer', border: 'none', outline: 'none' }}
             >
-              Let's make this your best day !✨
+              Let's make this your best day! ✨
             </button>
           </>
         )}
