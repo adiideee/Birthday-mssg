@@ -39,8 +39,15 @@ function LetterPage() {
           <>
             <div style={{ background: '#FFF0F5', padding: '1.5rem', borderRadius: '1rem', border: '2px solid #FF69B4', marginTop: '2rem' }}>
               <p style={{ fontSize: '15px', fontFamily: 'monospace', fontWeight:'bold', color: '#DB2777', lineHeight: '1.6', textAlign:'left' }}>
-                cute mssg for him!
-              </p>
+                HAPPYYYY BIRTHDAYYYYYY FAVORITE HOOMAAAANNN!🐶💗
+                Thanks for being borned and always being around since we met. I love youuuuuu and have no words to desribe 
+                what I have gained when I met you, yesss you annoy me and annoy me a hell lottttt!! and we definately gonna 
+                fight more when we meet and this cutie patottieee (you) day is over😤😤 but till then lets consider only 
+                cute cute harkate of yours and admireeeee you thoda more today!🥰🎀 Baki lets make sure your day is full of 
+                gifts, smilesssss, surprises, sweetssss🍰 and lots of kissesss💋 (only from me tho, hehe)
+              
+                Lots of loveeeeeeee,
+                Aditiiiiii💌 </p>
             </div>
 
             {/* Go Back Button (Only visible when letter is open) */}
